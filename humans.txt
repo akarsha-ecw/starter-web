@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Akarsha B	akarsha@git.training @awesomeab
 
 # THANKS
 
